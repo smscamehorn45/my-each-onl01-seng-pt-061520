@@ -10,5 +10,5 @@ def my_each(collection)
  collection
 end
 
-my_each(collection) {|x| do x}
+my_each(collection) {|x| print x}
 
